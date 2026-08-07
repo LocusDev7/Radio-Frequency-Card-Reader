@@ -19,9 +19,9 @@ I am going to be completely honest for these initial stages. Google Gemini was u
 
 The entire list of things that I added to the schematic:
 
-* Buzzer (To notify card read)
-* RF Controller, Filter and Power
-* LED Access Level & LED Power Indicator
+* Buzzer (to notify card was detected)
+* RF Controller, Filter, and Power
+* LED Access Level & Power Indicator
 * UART Pin Section
 * Battery Charger & Cell
 * Power Network (using multi Schottky diode and switch)
