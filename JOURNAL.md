@@ -17,6 +17,17 @@ The first thing I did was to come up with some potential project ideas that were
 
 I am going to be completely honest for these initial stages. Google Gemini was used in order to recommend possible integrated circuits that could be used and also capacitor and resistor values. I also used it to check my schematic from time to time just to make sure that I am correctly placing components on the schematic correctly. 
 
+The entire list of things that I added to the schematic:
+
+* Buzzer (To notify card read)
+* RF Controller, Filter and Power
+* LED Access Level & LED Power Indicator
+* UART Pin Section
+* Battery Charger & Cell
+* Power Network (using multi Schottky diode and switch)
+* LCD Display
+* And Micro SD Card
+
 <img width="1226" height="868" alt="Screenshot 2026-08-06 193839" src="https://github.com/user-attachments/assets/231f263b-3032-490b-be47-4090ebed8f79" />
 
 **Total Time Spent: 4h**
