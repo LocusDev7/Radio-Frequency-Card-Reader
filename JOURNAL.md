@@ -41,3 +41,10 @@ Also, I removed the pins DB4-DB7 because the LCD display, which I had bought fro
 
 <img width="353" height="383" alt="Screenshot 2026-08-06 200625" src="https://github.com/user-attachments/assets/31dfa9f2-dc89-432a-b459-85a67b7fc79c" />
 <img width="702" height="655" alt="Screenshot 2026-08-06 200332" src="https://github.com/user-attachments/assets/284ffbcc-8504-4b4b-ba1c-7c723eb6f73f" />
+
+**Total Time Spent: 10m**
+
+# August 7th: PCB Design
+
+Now that the schematic is finished and revised, I can move onto the actual design of the PCB. 
+My main objectives for the design is to isolate the components on one side and have the RFID copper pad on another side so the components and the wiring on the PCB does not interfere with the signal of the scanning operation.
