@@ -34,7 +34,7 @@ The entire list of things that I added to the schematic:
 
 # August 6th: Schematic Adjustments
 
-Upon reviewing my schematic from a fresh mind, I decided to remove the LCD Display from the project and include that using pin headers later on and also due to it being a large object on the pcb so it would just waste space.
+Upon reviewing my schematic from a fresh mind, I decided to remove the LCD Display from the project. This is so that I won't have to spend more time organizing space in the PCB editor for many more hours and just have pin headers wire it up. 
 <img width="1224" height="866" alt="Screenshot 2026-08-06 201009" src="https://github.com/user-attachments/assets/cd8e51d5-84af-449b-84ab-91ed8cb29d3f" />
 
 I removed the DB4-DB7 pins becuase my LCD display that I bought from an etronics kit already uses a custom IC to program all of the screen so all i need to use is the standard I2C SDA and SDC pins with GND and VDD of course.
