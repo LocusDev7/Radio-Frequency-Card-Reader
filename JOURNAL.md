@@ -44,7 +44,15 @@ Also, I removed the pins DB4-DB7 because the LCD display, which I had bought fro
 
 **Total Time Spent: 10m**
 
-# August 7th: PCB Design
+# August 7th: PCB Design (Pre-Planning)
 
 Now that the schematic is finished and revised, I can move onto the actual design of the PCB. 
-My main objectives for the design is to isolate the components on one side and have the RFID copper pad on another side so the components and the wiring on the PCB does not interfere with the signal of the scanning operation.
+Another important note is that school is starting up again, so this project may continue at a slower pace until I get adjusted to my new classes.
+
+My main objectives for the design are: 
+* Isolate the RF pad and the electronics compoenents
+* Create mounting holes for screwing onto a wall.
+* Attach the Hackclub and my own personal logo.
+* Thoroughly verify and recheck the design for any flaws using DRC.
+
+I'll also try to learn Autodesk Fusion to create the casing for the board. Wish me luck!
