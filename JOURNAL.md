@@ -47,12 +47,12 @@ Also, I removed the pins DB4-DB7 because the LCD display, which I had bought fro
 # August 7th: PCB Design (Pre-Planning)
 
 Now that the schematic is finished and revised, I can move onto the actual design of the PCB. 
-Another important note is that school is starting up again, so this project may continue at a slower pace until I get adjusted to my new classes.
 
-My main objectives for the design are: 
-* Isolate the RF pad and the electronics compoenents
-* Create mounting holes for screwing onto a wall.
-* Attach the Hackclub and my own personal logo.
+The main objectives for the design are: 
+* Isolate the RF pad and the electrical components.
+* Create mounting holes to screw the board onto a wall.
+* Attach logos (i.e Hackclub, Kicad, etc)
 * Thoroughly verify and recheck the design for any flaws using DRC.
 
-I'll also try to learn Autodesk Fusion to create the casing for the board. Wish me luck!
+I am also going to attempt to learn Autodesk Fusion in order to create the case for the board. Wish me luck!
+Another important note is that school is starting up again, so this project may continue at a slower pace until I get adjusted to my new classes.
