@@ -40,7 +40,6 @@ Upon reviewing my schematic from a fresh mind, I decided to remove the LCD Displ
 Also, I removed the pins DB4-DB7 because the LCD display, which I had bought from an electronics kit, uses a custom integrated circuit to program the screen using just two pins -- SDA and SCL.
 
 <img width="353" height="383" alt="Screenshot 2026-08-06 200625" src="https://github.com/user-attachments/assets/31dfa9f2-dc89-432a-b459-85a67b7fc79c" />
-<img width="702" height="655" alt="Screenshot 2026-08-06 200332" src="https://github.com/user-attachments/assets/284ffbcc-8504-4b4b-ba1c-7c723eb6f73f" />
 
 **Total Time Spent: 10m**
 
