@@ -30,6 +30,8 @@ Datasheet: https://www.diodes.com/assets/Datasheets/AP2112.pdf
 <img width="608" height="565" alt="image" src="https://github.com/user-attachments/assets/6f9b4ba2-eb17-4af1-ad05-b6ce562a7830" />
 <img width="837" height="261" alt="image" src="https://github.com/user-attachments/assets/bb9a5528-de58-445f-a36d-64262deb7aae" />
 
+While I understand that a project like this could be designed using an Arduino and an external RFID reader and an LCD Display, this design serves a practical purpose that the Arduino cannot replicate. Since the Arduino does not have a dedicated WIFI system it would make sense for me to create a custom PCB that could handle cloud updates and also offline data logging for an attendance system. And if needed, the PCB could also be used either USB for power or battery to allow it to be mobile/standalone.
+
 **Total time spent: 30m**
 
 # October 31st: Adding a crystal oscillator and data-line protection
